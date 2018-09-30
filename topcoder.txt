@@ -1,0 +1,8 @@
+TEAM NAME : BULLETPROOF MONKS
+TEAM MEMBERS : SHIKHAR VAISH
+               PULKIT GUPTA
+               MIHIR GANDHI
+               ANURAG KUSHWAHA
+
+GIT REPO : (APP) https://github.com/pulkonet/mrcaption-front
+           (BACKEND) https://github.com/pulkonet/mrcaption-back
